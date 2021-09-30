@@ -57,4 +57,4 @@ client.user.setGame(`PARTNER ANO`)
 
 
 
-client.login("");// Token Dane 
+client.login("ODkzMDc3MDc5OTIxNDE0MTc1.YVWM2A.5h4g-a83n2LWPXw9OjVkwbaVih8");// Token Dane 
